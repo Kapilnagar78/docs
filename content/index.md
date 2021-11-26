@@ -42,7 +42,7 @@ children:
   - early-access
 childGroups:
   - name: Get started
-    octicon: 'RocketIcon'
+    octicon: 'RocketIcon'Y
     children:
     - get-started
     - account-and-profile
